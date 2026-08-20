@@ -3,9 +3,11 @@
 💻 **Desenvolvedor Front-End em formação**
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 
+🚀 **[🌐 Acesse meu Portfólio]()**
+
 Tenho interesse em desenvolvimento web e estou buscando evoluir cada vez mais na criação de interfaces modernas, responsivas e funcionais.
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 * HTML
 * CSS
@@ -40,12 +42,13 @@ Meu portfólio pessoal para apresentar meus projetos, conhecimentos e informaç�
 
 Projeto desenvolvido para praticar JavaScript e manipulação de elementos da página.
 
-## 📊 Objetivo
+## 🎯 Objetivo
 
-Meu objetivo é conquistar uma oportunidade de **estágio ou primeira experiência profissional como Desenvolvedor Front-End**, colocando meus conhecimentos em prática e continuando minha evolução na área.
+Meu objetivo é conquistar uma oportunidade de **estágio ou primeira experiência profissional como Desenvolvedor Front-End**.
 
-## 🔗 Onde me encontrar
+## 🔗 Contato
 
+* 🌐 [Portfólio]()
 * 💼 LinkedIn
 * 🐙 GitHub
-* 🌐 Portfólio
+
