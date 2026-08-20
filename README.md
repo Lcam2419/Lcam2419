@@ -42,6 +42,10 @@ Meu portfólio pessoal para apresentar meus projetos, conhecimentos e informaç�
 
 Projeto desenvolvido para praticar JavaScript e manipulação de elementos da página.
 
+# 🍔 Stars Burgers
+
+Projeto de site para uma hamburgueria, desenvolvido com foco em **desenvolvimento Front-End**, criação de interfaces modernas e responsivas.
+
 ## 🎯 Objetivo
 
 Meu objetivo é conquistar uma oportunidade de **estágio ou primeira experiência profissional como Desenvolvedor Front-End**.
