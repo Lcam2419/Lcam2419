@@ -53,6 +53,6 @@ Meu objetivo é conquistar uma oportunidade de **estágio ou primeira experiênc
 ## 🔗 Contato
 
 * 🌐 [Portfólio](https://lcam2419.github.io/Meu-Portifolio/)
-* 💼 LinkedIn
-* 🐙 GitHub
+* 💼 [LinkedIn](https://www.linkedin.com/in/lucas-alexandre-4b50122aa/)
+* 🐙 [GitHub](https://github.com/Lcam2419)
 
